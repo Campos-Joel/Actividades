@@ -28,6 +28,7 @@ namespace MyApp //actividad del 31/05 -joelcampos-
             Console.WriteLine("Codigo " + producto1.GetCodigo());
             Console.WriteLine("Nombre: " + producto1.GetNombre());
             Console.WriteLine("Precio: " + producto1.GetPrecio());
+            Console.WriteLine("Stock: " + producto1.GetStock());
             //mostrar producto2
             producto2.SetCodigo("011");
             producto2.SetNombre("Producto B");
@@ -37,6 +38,7 @@ namespace MyApp //actividad del 31/05 -joelcampos-
             Console.WriteLine("Codigo " + producto2.GetCodigo());
             Console.WriteLine("Nombre: " + producto2.GetNombre());
             Console.WriteLine("Precio: " + producto2.GetPrecio());
+            Console.WriteLine("Stock: "+ producto2.GetStock());
             
         }
         
