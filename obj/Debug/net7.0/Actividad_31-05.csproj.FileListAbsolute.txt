@@ -1,0 +1,15 @@
+C:\Users\isfdt\Desktop\Actividad_31-05\bin\Debug\net7.0\Actividad_31-05.exe
+C:\Users\isfdt\Desktop\Actividad_31-05\bin\Debug\net7.0\Actividad_31-05.deps.json
+C:\Users\isfdt\Desktop\Actividad_31-05\bin\Debug\net7.0\Actividad_31-05.runtimeconfig.json
+C:\Users\isfdt\Desktop\Actividad_31-05\bin\Debug\net7.0\Actividad_31-05.dll
+C:\Users\isfdt\Desktop\Actividad_31-05\bin\Debug\net7.0\Actividad_31-05.pdb
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.csproj.AssemblyReference.cache
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.AssemblyInfoInputs.cache
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.AssemblyInfo.cs
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.csproj.CoreCompileInputs.cache
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.dll
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\refint\Actividad_31-05.dll
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.pdb
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\Actividad_31-05.genruntimeconfig.cache
+C:\Users\isfdt\Desktop\Actividad_31-05\obj\Debug\net7.0\ref\Actividad_31-05.dll
